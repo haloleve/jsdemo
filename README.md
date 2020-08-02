@@ -1,3 +1,9 @@
+Try it
+https://my-json-server.typicode.com/haloleve/jsdemo
+
+Use your own data
+albums / posts / todos / comments
+
 //获取所有的用户信息
 http://localhost:3000/users
 
