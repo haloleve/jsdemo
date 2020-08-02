@@ -73,36 +73,6 @@
             "id": 5,
             "title": "nesciunt quas odio",
             "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
-        },
-        {
-            "userId": 1,
-            "id": 6,
-            "title": "dolorem eum magni eos aperiam quia",
-            "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
-        },
-        {
-            "userId": 1,
-            "id": 7,
-            "title": "magnam facilis autem",
-            "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
-        },
-        {
-            "userId": 1,
-            "id": 8,
-            "title": "dolorem dolore est ipsam",
-            "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
-        },
-        {
-            "userId": 1,
-            "id": 9,
-            "title": "nesciunt iure omnis dolorem tempora et accusantium",
-            "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
-        },
-        {
-            "userId": 1,
-            "id": 10,
-            "title": "optio molestias id quia eum",
-            "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
         }
     ],
     "albums": [{
@@ -129,31 +99,6 @@
             "userId": 1,
             "id": 5,
             "title": "eaque aut omnis a"
-        },
-        {
-            "userId": 1,
-            "id": 6,
-            "title": "natus impedit quibusdam illo est"
-        },
-        {
-            "userId": 1,
-            "id": 7,
-            "title": "quibusdam autem aliquid et et quia"
-        },
-        {
-            "userId": 1,
-            "id": 8,
-            "title": "qui fuga est a eum"
-        },
-        {
-            "userId": 1,
-            "id": 9,
-            "title": "saepe unde necessitatibus rem"
-        },
-        {
-            "userId": 1,
-            "id": 10,
-            "title": "distinctio laborum qui"
         }
     ],
     "comments": [{
@@ -190,41 +135,6 @@
             "name": "vero eaque",
             "email": "Hayden@althea.biz",
             "body": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
-        },
-        {
-            "postId": 2,
-            "id": 6,
-            "name": "et fugit",
-            "email": "Presley.Mueller@myrl.com",
-            "body": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem"
-        },
-        {
-            "postId": 2,
-            "id": 7,
-            "name": "repellat consequatur",
-            "email": "Dallas@ole.me",
-            "body": "maiores sed dolores similique labore et inventore et\nquasi temporibus esse sunt id et\neos voluptatem aliquam\naliquid ratione"
-        },
-        {
-            "postId": 2,
-            "id": 8,
-            "name": "et omnis dolorem",
-            "email": "Mallory_Kunze@marie.org",
-            "body": "ut voluptatem corrupti velit\nad voluptatem maiores\net nisi velit vero accusamus maiores"
-        },
-        {
-            "postId": 2,
-            "id": 9,
-            "name": "provident id voluptas",
-            "email": "Meghan_Littel@rene.us",
-            "body": "sapiente assumenda molestiae atque\nadipisci laborum distinctio aperiam et ab ut omnis\net occaecat"
-        },
-        {
-            "postId": 2,
-            "id": 10,
-            "name": "eaque et deleniti atque",
-            "email": "Carmen_Keeling@caroline.name",
-            "body": "voluptate iusto quis nobis reprehenderit ipsum amet nulla\nquia quas dolores velit et non\naut quia"
         }
     ],
     "todos": [{
@@ -256,36 +166,6 @@
             "id": 5,
             "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
             "completed": false
-        },
-        {
-            "userId": 1,
-            "id": 6,
-            "title": "qui ullam ratione quibusdam voluptatem quia omnis",
-            "completed": false
-        },
-        {
-            "userId": 1,
-            "id": 7,
-            "title": "illo expedita consequatur quia in",
-            "completed": false
-        },
-        {
-            "userId": 1,
-            "id": 8,
-            "title": "quo adipisci enim quam ut ab",
-            "completed": true
-        },
-        {
-            "userId": 1,
-            "id": 9,
-            "title": "molestiae perspiciatis ipsa",
-            "completed": false
-        },
-        {
-            "userId": 1,
-            "id": 10,
-            "title": "illo est ratione doloremque quia maiores aut",
-            "completed": true
         }
     ]
 }
